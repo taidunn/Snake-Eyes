@@ -1,6 +1,7 @@
+//This version is a play along version. You will roll a die twice (or two dies) then type in the number you recieve.
 import java.util.Scanner;
 
-public class sample1 {
+public class PlayAlong {
 	
 	static Scanner userInput = new Scanner(System.in);
 
